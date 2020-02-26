@@ -319,6 +319,10 @@
                                 <color key="textColor" red="0.10542456060647964" green="0.19653400778770447" blue="0.35687932372093201" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="CS" translatesAutoresizingMaskIntoConstraints="NO" id="JwL-AE-24H">
+                                <rect key="frame" x="39" y="105" width="319" height="105"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <viewLayoutGuide key="safeArea" id="kDT-o7-AsF"/>
